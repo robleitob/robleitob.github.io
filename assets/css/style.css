@@ -38,3 +38,10 @@ body {
   
   }
   
+  .footer {
+    transition-duration: 0.5s;
+  }
+
+  .footer:hover {
+    color: aqua;
+  }
